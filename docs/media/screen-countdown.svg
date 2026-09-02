@@ -1,0 +1,41 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 640 480" width="640" height="480" role="img" aria-label="Countdown_C4: a brick of C4 counting down from three">
+<title>Countdown_C4: a brick of C4 counting down from three</title>
+<rect width="640" height="480" fill="#000000"/>
+<rect x="120" y="80" width="420" height="300" fill="#AA5500"/>
+<line x1="120" y1="180" x2="540" y2="180" stroke="#000000" stroke-width="1"/>
+<line x1="120" y1="290" x2="540" y2="290" stroke="#000000" stroke-width="1"/>
+<line x1="530" y1="140" x2="510" y2="140" stroke="#AA0000" stroke-width="1"/>
+<line x1="530" y1="240" x2="510" y2="240" stroke="#AA0000" stroke-width="1"/>
+<line x1="530" y1="340" x2="510" y2="340" stroke="#AA0000" stroke-width="1"/>
+<line x1="510" y1="140" x2="510" y2="370" stroke="#AA0000" stroke-width="1"/>
+<line x1="510" y1="370" x2="435" y2="370" stroke="#AA0000" stroke-width="1"/>
+<line x1="435" y1="370" x2="435" y2="360" stroke="#AA0000" stroke-width="1"/>
+<rect x="530" y="130" width="10" height="30" fill="#555555"/>
+<rect x="530" y="230" width="10" height="30" fill="#555555"/>
+<rect x="530" y="330" width="10" height="30" fill="#555555"/>
+<rect x="420" y="350" width="30" height="10" fill="#555555"/>
+<rect x="185" y="110" width="20" height="10" fill="#555555"/>
+<rect x="195" y="350" width="30" height="10" fill="#555555"/>
+<line x1="195" y1="110" x2="195" y2="95" stroke="#00AA00" stroke-width="1"/>
+<line x1="195" y1="95" x2="150" y2="95" stroke="#00AA00" stroke-width="1"/>
+<line x1="150" y1="95" x2="150" y2="370" stroke="#00AA00" stroke-width="1"/>
+<line x1="150" y1="370" x2="210" y2="370" stroke="#00AA00" stroke-width="1"/>
+<line x1="210" y1="370" x2="210" y2="360" stroke="#00AA00" stroke-width="1"/>
+<rect x="180" y="120" width="300" height="230" fill="#00AA00"/>
+<rect x="190" y="130" width="280" height="50" fill="#000000"/>
+<rect x="190" y="230" width="280" height="110" fill="#FFFFFF"/>
+<line x1="290" y1="230" x2="290" y2="340" stroke="#000000" stroke-width="1"/>
+<line x1="360" y1="230" x2="360" y2="340" stroke="#000000" stroke-width="1"/>
+<line x1="190" y1="265" x2="470" y2="265" stroke="#000000" stroke-width="1"/>
+<line x1="190" y1="305" x2="470" y2="305" stroke="#000000" stroke-width="1"/>
+<text x="242" y="256" font-family="ui-monospace,'DejaVu Sans Mono',Menlo,Consolas,'Courier New',monospace" font-size="32.4" fill="#000000" text-anchor="middle">1</text>
+<text x="327" y="256" font-family="ui-monospace,'DejaVu Sans Mono',Menlo,Consolas,'Courier New',monospace" font-size="32.4" fill="#000000" text-anchor="middle">2</text>
+<text x="417" y="256" font-family="ui-monospace,'DejaVu Sans Mono',Menlo,Consolas,'Courier New',monospace" font-size="32.4" fill="#000000" text-anchor="middle">3</text>
+<text x="242" y="296" font-family="ui-monospace,'DejaVu Sans Mono',Menlo,Consolas,'Courier New',monospace" font-size="32.4" fill="#000000" text-anchor="middle">4</text>
+<text x="327" y="296" font-family="ui-monospace,'DejaVu Sans Mono',Menlo,Consolas,'Courier New',monospace" font-size="32.4" fill="#000000" text-anchor="middle">5</text>
+<text x="417" y="296" font-family="ui-monospace,'DejaVu Sans Mono',Menlo,Consolas,'Courier New',monospace" font-size="32.4" fill="#000000" text-anchor="middle">6</text>
+<text x="242" y="336" font-family="ui-monospace,'DejaVu Sans Mono',Menlo,Consolas,'Courier New',monospace" font-size="32.4" fill="#000000" text-anchor="middle">7</text>
+<text x="327" y="336" font-family="ui-monospace,'DejaVu Sans Mono',Menlo,Consolas,'Courier New',monospace" font-size="32.4" fill="#000000" text-anchor="middle">8</text>
+<text x="417" y="336" font-family="ui-monospace,'DejaVu Sans Mono',Menlo,Consolas,'Courier New',monospace" font-size="32.4" fill="#000000" text-anchor="middle">9</text>
+<text x="454" y="177" font-family="ui-monospace,'DejaVu Sans Mono',Menlo,Consolas,'Courier New',monospace" font-size="64.8" fill="#AA0000" text-anchor="middle">3</text>
+</svg>

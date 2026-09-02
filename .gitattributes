@@ -1,0 +1,6 @@
+# The game is one C file; keep GitHub's language bar honest about that.
+*.c linguist-language=C
+
+# Everything under docs/ is documentation and should not count towards the
+# repository's language statistics.
+docs/** linguist-documentation

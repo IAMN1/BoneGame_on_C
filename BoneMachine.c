@@ -1,7 +1,7 @@
 	 /***************************************************************/
 	 /*                                                             */
-	 /*    This program was made by Andrey Pinigin 10G clas		*/
-	 /*    Esli eta programma rabotaet,to ee napisal Pinigin Andrey */
+	 /*    This program was made by IAMN1, 10G clas                 */
+	 /*    Esli eta programma rabotaet,to ee napisal IAMN1          */
 	 /*    Elsli net, to ne znay kto ee napisal                      */
 	 /* --------------------------------------------------------    */
 	 /*   In this programm 1420 lines,>80 comments, include 16 non- */

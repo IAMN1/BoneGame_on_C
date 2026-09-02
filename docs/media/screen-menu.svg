@@ -1,0 +1,76 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 640 480" width="640" height="480" role="img" aria-label="The main menu: two game modes and an exit, drawn from BGI primitives">
+<title>The main menu: two game modes and an exit, drawn from BGI primitives</title>
+<rect width="640" height="480" fill="#000000"/>
+<polygon points="120,30 130,20 130,80 120,90" fill="#00AA00" stroke="#55FF55" stroke-width="1"/>
+<polygon points="60,30 70,20 130,20 120,30" fill="#00AA00" stroke="#55FF55" stroke-width="1"/>
+<rect x="60" y="30" width="60" height="60" fill="#00AA00" stroke="#55FF55" stroke-width="1"/>
+<polygon points="120,390 130,380 130,440 120,450" fill="#00AA00" stroke="#55FF55" stroke-width="1"/>
+<polygon points="60,390 70,380 130,380 120,390" fill="#00AA00" stroke="#55FF55" stroke-width="1"/>
+<rect x="60" y="390" width="60" height="60" fill="#00AA00" stroke="#55FF55" stroke-width="1"/>
+<polygon points="600,390 610,380 610,440 600,450" fill="#00AA00" stroke="#55FF55" stroke-width="1"/>
+<polygon points="540,390 550,380 610,380 600,390" fill="#00AA00" stroke="#55FF55" stroke-width="1"/>
+<rect x="540" y="390" width="60" height="60" fill="#00AA00" stroke="#55FF55" stroke-width="1"/>
+<polygon points="600,30 610,20 610,80 600,90" fill="#00AA00" stroke="#55FF55" stroke-width="1"/>
+<polygon points="540,30 550,20 610,20 600,30" fill="#00AA00" stroke="#55FF55" stroke-width="1"/>
+<rect x="540" y="30" width="60" height="60" fill="#00AA00" stroke="#55FF55" stroke-width="1"/>
+<polygon points="240,390 250,380 250,440 240,450" fill="#0000AA" stroke="#5555FF" stroke-width="1"/>
+<polygon points="180,390 190,380 250,380 240,390" fill="#0000AA" stroke="#5555FF" stroke-width="1"/>
+<rect x="180" y="390" width="60" height="60" fill="#0000AA" stroke="#5555FF" stroke-width="1"/>
+<polygon points="480,390 490,380 490,440 480,450" fill="#0000AA" stroke="#5555FF" stroke-width="1"/>
+<polygon points="420,390 430,380 490,380 480,390" fill="#0000AA" stroke="#5555FF" stroke-width="1"/>
+<rect x="420" y="390" width="60" height="60" fill="#0000AA" stroke="#5555FF" stroke-width="1"/>
+<polygon points="480,30 490,20 490,80 480,90" fill="#0000AA" stroke="#5555FF" stroke-width="1"/>
+<polygon points="420,30 430,20 490,20 480,30" fill="#0000AA" stroke="#5555FF" stroke-width="1"/>
+<rect x="420" y="30" width="60" height="60" fill="#0000AA" stroke="#5555FF" stroke-width="1"/>
+<polygon points="240,30 250,20 250,80 240,90" fill="#0000AA" stroke="#5555FF" stroke-width="1"/>
+<polygon points="180,30 190,20 250,20 240,30" fill="#0000AA" stroke="#5555FF" stroke-width="1"/>
+<rect x="180" y="30" width="60" height="60" fill="#0000AA" stroke="#5555FF" stroke-width="1"/>
+<polygon points="120,180 60,210 60,150" fill="#AA00AA" stroke="#AA00AA" stroke-width="1"/>
+<polygon points="120,300 60,270 60,330" fill="#AA00AA" stroke="#AA00AA" stroke-width="1"/>
+<polygon points="330,450 300,390 360,390" fill="#AA00AA" stroke="#AA00AA" stroke-width="1"/>
+<polygon points="540,300 600,270 600,330" fill="#AA00AA" stroke="#AA00AA" stroke-width="1"/>
+<polygon points="540,180 600,150 600,210" fill="#AA00AA" stroke="#AA00AA" stroke-width="1"/>
+<polygon points="330,30 360,90 300,90" fill="#AA00AA" stroke="#AA00AA" stroke-width="1"/>
+<rect x="210" y="100" width="240" height="220" fill="#555555" stroke="#FFFFFF" stroke-width="1"/>
+<text x="269" y="147" font-family="ui-monospace,'DejaVu Sans Mono',Menlo,Consolas,'Courier New',monospace" font-size="10.8" fill="#FFFFFF" text-anchor="middle">S</text>
+<text x="277" y="147" font-family="ui-monospace,'DejaVu Sans Mono',Menlo,Consolas,'Courier New',monospace" font-size="10.8" fill="#FFFFFF" text-anchor="middle">e</text>
+<text x="285" y="147" font-family="ui-monospace,'DejaVu Sans Mono',Menlo,Consolas,'Courier New',monospace" font-size="10.8" fill="#FFFFFF" text-anchor="middle">l</text>
+<text x="293" y="147" font-family="ui-monospace,'DejaVu Sans Mono',Menlo,Consolas,'Courier New',monospace" font-size="10.8" fill="#FFFFFF" text-anchor="middle">e</text>
+<text x="301" y="147" font-family="ui-monospace,'DejaVu Sans Mono',Menlo,Consolas,'Courier New',monospace" font-size="10.8" fill="#FFFFFF" text-anchor="middle">c</text>
+<text x="309" y="147" font-family="ui-monospace,'DejaVu Sans Mono',Menlo,Consolas,'Courier New',monospace" font-size="10.8" fill="#FFFFFF" text-anchor="middle">t</text>
+<text x="325" y="147" font-family="ui-monospace,'DejaVu Sans Mono',Menlo,Consolas,'Courier New',monospace" font-size="10.8" fill="#FFFFFF" text-anchor="middle">g</text>
+<text x="333" y="147" font-family="ui-monospace,'DejaVu Sans Mono',Menlo,Consolas,'Courier New',monospace" font-size="10.8" fill="#FFFFFF" text-anchor="middle">a</text>
+<text x="341" y="147" font-family="ui-monospace,'DejaVu Sans Mono',Menlo,Consolas,'Courier New',monospace" font-size="10.8" fill="#FFFFFF" text-anchor="middle">m</text>
+<text x="349" y="147" font-family="ui-monospace,'DejaVu Sans Mono',Menlo,Consolas,'Courier New',monospace" font-size="10.8" fill="#FFFFFF" text-anchor="middle">e</text>
+<text x="365" y="147" font-family="ui-monospace,'DejaVu Sans Mono',Menlo,Consolas,'Courier New',monospace" font-size="10.8" fill="#FFFFFF" text-anchor="middle">m</text>
+<text x="373" y="147" font-family="ui-monospace,'DejaVu Sans Mono',Menlo,Consolas,'Courier New',monospace" font-size="10.8" fill="#FFFFFF" text-anchor="middle">o</text>
+<text x="381" y="147" font-family="ui-monospace,'DejaVu Sans Mono',Menlo,Consolas,'Courier New',monospace" font-size="10.8" fill="#FFFFFF" text-anchor="middle">d</text>
+<text x="389" y="147" font-family="ui-monospace,'DejaVu Sans Mono',Menlo,Consolas,'Courier New',monospace" font-size="10.8" fill="#FFFFFF" text-anchor="middle">e</text>
+<text x="397" y="147" font-family="ui-monospace,'DejaVu Sans Mono',Menlo,Consolas,'Courier New',monospace" font-size="10.8" fill="#FFFFFF" text-anchor="middle">:</text>
+<rect x="285" y="175" width="120" height="20" fill="#000000"/>
+<rect x="270" y="168" width="120" height="20" fill="#5555FF" stroke="#FFFFFF" stroke-width="1"/>
+<text x="286" y="182" font-family="ui-monospace,'DejaVu Sans Mono',Menlo,Consolas,'Courier New',monospace" font-size="10.8" fill="#FFFFFF" text-anchor="middle">G</text>
+<text x="294" y="182" font-family="ui-monospace,'DejaVu Sans Mono',Menlo,Consolas,'Courier New',monospace" font-size="10.8" fill="#FFFFFF" text-anchor="middle">u</text>
+<text x="302" y="182" font-family="ui-monospace,'DejaVu Sans Mono',Menlo,Consolas,'Courier New',monospace" font-size="10.8" fill="#FFFFFF" text-anchor="middle">e</text>
+<text x="310" y="182" font-family="ui-monospace,'DejaVu Sans Mono',Menlo,Consolas,'Courier New',monospace" font-size="10.8" fill="#FFFFFF" text-anchor="middle">s</text>
+<text x="326" y="182" font-family="ui-monospace,'DejaVu Sans Mono',Menlo,Consolas,'Courier New',monospace" font-size="10.8" fill="#FFFFFF" text-anchor="middle">1</text>
+<text x="342" y="182" font-family="ui-monospace,'DejaVu Sans Mono',Menlo,Consolas,'Courier New',monospace" font-size="10.8" fill="#FFFFFF" text-anchor="middle">o</text>
+<text x="350" y="182" font-family="ui-monospace,'DejaVu Sans Mono',Menlo,Consolas,'Courier New',monospace" font-size="10.8" fill="#FFFFFF" text-anchor="middle">f</text>
+<text x="366" y="182" font-family="ui-monospace,'DejaVu Sans Mono',Menlo,Consolas,'Courier New',monospace" font-size="10.8" fill="#FFFFFF" text-anchor="middle">3</text>
+<rect x="285" y="220" width="110" height="20" fill="#000000"/>
+<rect x="275" y="210" width="110" height="20" fill="#AAAAAA" stroke="#FFFFFF" stroke-width="1"/>
+<text x="291" y="224" font-family="ui-monospace,'DejaVu Sans Mono',Menlo,Consolas,'Courier New',monospace" font-size="10.8" fill="#FFFFFF" text-anchor="middle">G</text>
+<text x="299" y="224" font-family="ui-monospace,'DejaVu Sans Mono',Menlo,Consolas,'Courier New',monospace" font-size="10.8" fill="#FFFFFF" text-anchor="middle">u</text>
+<text x="307" y="224" font-family="ui-monospace,'DejaVu Sans Mono',Menlo,Consolas,'Courier New',monospace" font-size="10.8" fill="#FFFFFF" text-anchor="middle">e</text>
+<text x="315" y="224" font-family="ui-monospace,'DejaVu Sans Mono',Menlo,Consolas,'Courier New',monospace" font-size="10.8" fill="#FFFFFF" text-anchor="middle">s</text>
+<text x="331" y="224" font-family="ui-monospace,'DejaVu Sans Mono',Menlo,Consolas,'Courier New',monospace" font-size="10.8" fill="#FFFFFF" text-anchor="middle">2</text>
+<text x="347" y="224" font-family="ui-monospace,'DejaVu Sans Mono',Menlo,Consolas,'Courier New',monospace" font-size="10.8" fill="#FFFFFF" text-anchor="middle">o</text>
+<text x="355" y="224" font-family="ui-monospace,'DejaVu Sans Mono',Menlo,Consolas,'Courier New',monospace" font-size="10.8" fill="#FFFFFF" text-anchor="middle">f</text>
+<text x="371" y="224" font-family="ui-monospace,'DejaVu Sans Mono',Menlo,Consolas,'Courier New',monospace" font-size="10.8" fill="#FFFFFF" text-anchor="middle">3</text>
+<rect x="285" y="260" width="110" height="20" fill="#000000"/>
+<rect x="275" y="250" width="110" height="20" fill="#AAAAAA" stroke="#FFFFFF" stroke-width="1"/>
+<text x="315" y="264" font-family="ui-monospace,'DejaVu Sans Mono',Menlo,Consolas,'Courier New',monospace" font-size="10.8" fill="#FFFFFF" text-anchor="middle">E</text>
+<text x="323" y="264" font-family="ui-monospace,'DejaVu Sans Mono',Menlo,Consolas,'Courier New',monospace" font-size="10.8" fill="#FFFFFF" text-anchor="middle">x</text>
+<text x="331" y="264" font-family="ui-monospace,'DejaVu Sans Mono',Menlo,Consolas,'Courier New',monospace" font-size="10.8" fill="#FFFFFF" text-anchor="middle">i</text>
+<text x="339" y="264" font-family="ui-monospace,'DejaVu Sans Mono',Menlo,Consolas,'Courier New',monospace" font-size="10.8" fill="#FFFFFF" text-anchor="middle">t</text>
+</svg>
