@@ -1,0 +1,27 @@
+name: I ported it
+description: You rebuilt the game on a platform that is not DOS
+labels: ["port"]
+body:
+  - type: markdown
+    attributes:
+      value: |
+        Ports are the contribution this repository wants. Keep the port in your own
+        repository — this one stays frozen — and it will be linked from the README.
+  - type: input
+    id: repo
+    attributes:
+      label: Link to your port
+    validations:
+      required: true
+  - type: input
+    id: platform
+    attributes:
+      label: Platform or library
+      placeholder: SDL2, raylib, WebAssembly, terminal, …
+    validations:
+      required: true
+  - type: textarea
+    id: notes
+    attributes:
+      label: Anything interesting about the port
+      description: What was hardest to translate out of BGI? Did you keep the bugs?

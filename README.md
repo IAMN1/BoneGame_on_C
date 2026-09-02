@@ -151,9 +151,10 @@ Not a list of regrets. A list of things the code teaches by doing them the hard 
 calls and the `int86` mouse both need replacing. That makes it a pleasant afternoon project:
 the whole game is 15 functions and one screen resolution.
 
-If you port it to SDL2, raylib, WebAssembly or anything else, open an issue or a PR and it
-gets linked right here. Ports are the one contribution this repository actively wants; the
-2017 code itself stays exactly as it is.
+If you port it to SDL2, raylib, WebAssembly or anything else, open an issue and it gets linked
+right here. Ports are the one contribution this repository actively wants; the 2017 code itself
+stays exactly as it is, bugs and all. Documentation fixes and translations are welcome too —
+[CONTRIBUTING.md](CONTRIBUTING.md) says what is in scope and what is not.
 
 ## Licence
 

@@ -1,0 +1,29 @@
+name: Trouble running it
+description: Turbo C++ or DOSBox will not cooperate
+labels: ["help wanted"]
+body:
+  - type: markdown
+    attributes:
+      value: |
+        Please read `docs/RUN.md` first. Three things account for almost every failure:
+        the graphics library is not linked, `EGAVGA.BGI` is not in `C:\TURBOC3\BGI`,
+        or the emulated CPU speed is making `delay()` misbehave. If none of those is it,
+        this is the right place.
+  - type: input
+    id: setup
+    attributes:
+      label: Emulator and Turbo C++ version
+      placeholder: DOSBox Staging 0.82 + Turbo C++ 3.0, on macOS 15
+    validations:
+      required: true
+  - type: textarea
+    id: what-happened
+    attributes:
+      label: What happens
+      description: The exact error text, or a description of what the screen does.
+    validations:
+      required: true
+  - type: textarea
+    id: tried
+    attributes:
+      label: What you already tried from docs/RUN.md
